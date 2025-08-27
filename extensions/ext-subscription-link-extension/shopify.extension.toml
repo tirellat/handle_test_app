@@ -1,0 +1,6 @@
+[[extensions]]
+name = "ext-subscription-link-extension"
+type = "subscription_link_extension"
+handle = "ext-subscription-link-extension"
+
+pattern = "/subscriptions{?customer_id,shop}&id={contract_id}"

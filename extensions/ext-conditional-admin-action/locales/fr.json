@@ -1,0 +1,4 @@
+{
+  "name": "ext-conditional-admin-action",
+  "welcome": "Bienvenue dans l'extension {{target}}!"
+}

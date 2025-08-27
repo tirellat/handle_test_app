@@ -1,0 +1,6 @@
+[[extensions]]
+name = "ext-flow-trigger-lifecycle-callback"
+handle = "ext-flow-trigger-lifecycle-callback"
+type = "flow_trigger_lifecycle_callback"
+
+url = "https://url.com/api/callback"
