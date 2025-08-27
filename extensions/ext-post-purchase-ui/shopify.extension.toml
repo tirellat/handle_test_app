@@ -1,0 +1,11 @@
+name = "ext-post-purchase-ui"
+type = "checkout_post_purchase"
+
+
+# [[metafields]]
+# namespace = "my-namespace"
+# key = "my-key"
+
+# [[metafields]]
+# namespace = "my-namespace"
+# key = "my-key-2"

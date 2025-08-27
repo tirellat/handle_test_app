@@ -1,0 +1,15 @@
+[[extensions]]
+name = "ext-flow-trigger"
+handle = "ext-flow-trigger"
+type = "flow_trigger"
+
+description = "Your description"
+
+[settings]
+
+  [[settings.fields]]
+  type = "customer_reference"
+
+  [[settings.fields]]
+  type = "single_line_text_field"
+  key = "Your field key"
